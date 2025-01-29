@@ -2,6 +2,9 @@
 
 A fully-featured, **React & TypeScript** web application for visualizing and forecasting cryptocurrency prices. This project includes interactive charts, real-time technical indicators, and mock price prediction functionality. It can easily be extended to fetch real data from the [Alpha Vantage API](https://www.alphavantage.co/).
 
+![Project Interface](./image.png)
+1/29/2025
+
 ---
 
 ## Table of Contents
